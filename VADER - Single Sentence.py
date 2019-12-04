@@ -1,8 +1,3 @@
-"""
-Performing sentiment analysis using VADER
-
-"""
-
 #import SentimentIntensityAnalyzer class from vaderSentiment.vaderSentiment module
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
