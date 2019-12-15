@@ -1,2 +1,2 @@
 # Sentiment Analysis
-This repository contains practical implementation of programs focused on Sentiment Analysis, Opinion Mining and Natural Language Processing. 
+Sentence-level classification using VADER (Valence Aware Dictionary and sEntiment Reasoner) tool 
